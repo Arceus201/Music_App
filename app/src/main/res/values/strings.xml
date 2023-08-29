@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Music_App</string>
+
+    <string name="text_lyric">Song Lyrics Song Lyrics Song Lyrics Song Lyrics Song Lyrics Song</string>
+    <string name="local">Trên thiết bị</string>
+    <string name="local_song">12 Bài hát</string>
+    <string name="favo">Yêu thích</string>
+    <string name="personal">Your Library</string>
+    <string name="rencent">Gần đây</string>
+    <string name="list_liked_songs">Liked Songs</string>
+    <string name="name_song">Song name</string>
+    <string name="artist_name">Artist name</string>
+    <string name="time">00:00</string>
+    <string name="explore">Khám phá</string>
+    <string name="search">What do you want to listen to?</string>
+    <string name="search_result">Kết quả tìm kiếm</string>
+    <string name="trending">Thịnh hành</string>
+    <string name="no_data">Không tìm thấy kết quả</string>
+</resources>
